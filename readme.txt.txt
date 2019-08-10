@@ -1,2 +1,1 @@
-# Project to understand gitHub
-chnaged from gitHub
+# Project to understand git
